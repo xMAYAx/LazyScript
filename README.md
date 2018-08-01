@@ -1,5 +1,4 @@
-#Bismillah
-#Assalamu-Alaikum 
+
 
 [+] Termux-Lazyscript :-
  
