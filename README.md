@@ -10,7 +10,7 @@
 [+] Author :-
 
    Name : Ahsan Qureshi   Youtube : https://www.youtube.com/channel/UCBG74G451oGzxMyGmqB-Abw?
-   Github : https://github.com/TechnicalMujeeb/Termux-Lazyscript.git
+   Github : https://github.com/Spykeeee/LazyScript.git
    whatsapp : Termux Tube   
 
 [+] Installation :-
